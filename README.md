@@ -4,7 +4,7 @@
 
 authors:
   * [Bogdan Gorelkin](https://b.gorelkin.me)  <bogdan@gorelkin.me>
-  * [Sheikh Shah Mohammad Motiur Rahman](https://motiur.info) <hasnhijazi98@gmail.com>
+  * [Sheikh Shah Mohammad Motiur Rahman](https://motiur.info) <motiur@ieee.org>
 
 supervisor:
   * [Benoit Piranda](https://www.femto-st.fr/fr/personnel-femto/bpiranda) <benoit.piranda@univ-fcomte.fr>
